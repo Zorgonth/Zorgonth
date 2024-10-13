@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Saadoun Al-zubaidi**!  
 **Welcome to my GitHub profile!**  
-I'm a passionate full-stack developer focusing on building web applications , working with cloud services and .
+I'm a passionate full-stack developer focusing on building web applications , working with cloud services.
 
 ### 🌟 About Me:
 - 🔭 I’m currently working on: Building my personal portfolio and finishing my curriculum.  
