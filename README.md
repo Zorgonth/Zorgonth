@@ -48,8 +48,5 @@ I'm a passionate full-stack developer focusing on building web applications , wo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/saadoun-al-zubaidi)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:alzubaidisadooon@gmail.com)
 
-### 🌐 Check out my Portfolio:
-[Portfolio](https://yourportfolio.com)  
-
 ### ✍️ Quote:
 _"Genius is 1% inspiration, 99% perspiration."_ - Thomas Edison
