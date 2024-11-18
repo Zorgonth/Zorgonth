@@ -30,7 +30,7 @@ I'm a passionate full-stack developer focusing on building web applications and 
 
 ### 🔥 Projects:
 - **[Snake game](https://github.com/zorgonth/Snake_game):** A simple Snake game built using c++.
-- **[Transcendence](https://github.com/Melsso/Trascendence):** A gaming platform featuring Pong and Ricochet Robots, where users can create accounts, edit profiles, play games, host tournaments, and chat in real-time. Built with Django, PostgreSQL, and a JS/HTML/Bootstrap frontend, it uses Redis, Daphne, and WebSockets for a seamless real-time experience, all deployed efficiently with Docker Compose.
+- **[Transcendence](https://github.com/Melsso/Transcendence):** A gaming platform featuring Pong and Ricochet Robots, where users can create accounts, edit profiles, play games, host tournaments, and chat in real-time. Built with Django, PostgreSQL, and a JS/HTML/Bootstrap frontend, it uses Redis, Daphne, and WebSockets for a seamless real-time experience, all deployed efficiently with Docker Compose.
 - **[IRC](https://github.com/zorgonth/IRC):** a C++98 IRC server implementation, supporting essential IRC features like user authentication, channel management, private messaging, and operator privileges.
 - **[CUB3D](https://github.com/adhaka-afk/Cub3D):** a C project that uses Ray-Casting and miniLibX to create a 3D first-person view of a maze, allowing interactive exploration of a virtual environment.
 
