@@ -37,7 +37,7 @@ I'm a passionate full-stack developer focusing on building web applications and 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zorgonth&layout=compact&theme=radical)
 
 ### 🤝 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/saadoun-al-zubaidi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/saadoun-al-zubaidi-04543631b)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:alzubaidisadooon@gmail.com)
 
 ### My Portfolio Website:
