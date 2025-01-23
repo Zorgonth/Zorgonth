@@ -3,7 +3,7 @@
 I'm a passionate full-stack developer focusing on building web applications and working with cloud services.
 
 ### 🌟 About Me:
-- 🔭 I’m currently working on: Building my personal portfolio and finishing my curriculum.  
+- 🔭 I’m currently working on: Building my personal portfolio.  
 - 🌱 I’m learning: WebAssembly, and advanced AWS services.  
 - 👯 I’m looking to collaborate on: Full-stack web development projects, cloud-native apps.
 
